@@ -72,3 +72,27 @@ To ensure the continued success of *Transparency*, we recommend the following st
 *Transparency* is dedicated to revolutionizing the electoral process. Our mission is to empower citizens through technology, ensuring that every vote matters and every voice is heard.
 
 ---
+
+---
+
+*Challenges Encountered*
+
+As the sole developer of this project, I faced significant challenges, particularly in recruiting additional technical team members. Despite these hurdles, I remained committed to creating a secure and transparent electoral system using blockchain technology.
+
+The primary objective of the project was to develop a decentralized application (dApp) with two user interfaces: one for the electoral body and another for voters.
+
+*Technical Overview:*
+
+Initially, the dApp was built on the Lisk blockchain, which did not support account abstraction. This limitation hindered the implementation of government-sponsored gas fees and social media handle logins without requiring token creation or wallet setup. Due to these constraints and time limitations, I migrated the project to the Arbitrum blockchain platform.
+
+*Key Features and Challenges:*
+
+- *Account Abstraction:* Social login functionality has been implemented, but gas fee sponsorship remains pending at the time of submission.
+- *Blockchain Migration:* The project was successfully migrated to the Arbitrum blockchain to support account abstraction.
+- *User Interfaces:* Developed separate UIs for the electoral body and voters; however, deployment on Vercel is still incomplete.
+
+*Conclusion:*
+
+Future development will focus on completing the UI deployment and integrating gas fee sponsorship.
+
+---
