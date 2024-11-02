@@ -1,4 +1,6 @@
 smart contract https://sepolia.arbiscan.io/address/0xed27133b24a9cdf08e2a9f05d4ba2b5f323e2de1
+
+the second ui for the officail https://github.com/rocknwa/Transparency-Official-site/tree/main
 ---
 
 # Transparency: Revolutionizing Democracy Through Blockchain Technology
@@ -96,3 +98,5 @@ Initially, the dApp was built on the Lisk blockchain, which did not support acco
 Future development will focus on completing the UI deployment and integrating gas fee sponsorship.
 
 ---
+
+vidoe link. works but took time as of when I'm recording. But the issue will be rectified https://www.awesomescreenshot.com/video/33194936?key=787f426febdd725675324d6720ef2325
